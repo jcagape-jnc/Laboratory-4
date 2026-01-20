@@ -38,14 +38,9 @@ Infographic + Mini Project Documentation
 <div align="center">
 
 📄 **Mini Documentation (PDF)**  
-<br>
-<a href="Mini%20documentation.pdf" target="_blank">
-Open Mini Documentation
-</a>
+[Open Mini Documentation (PDF)](Documentation/Mini%20documentation.pdf)
 
-</div>
 
----
 
 
 
