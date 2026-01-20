@@ -24,7 +24,30 @@ Infographic + Mini Project Documentation
 
 
 
+<div align="center">
+
+# 📄 Laboratory 4 — Documentation  
+### Mini Documentation Report
+
+</div>
+
 ---
+
+## 📘 Document Output
+
+<div align="center">
+
+📄 **Mini Documentation (PDF)**  
+<br>
+<a href="Mini%20documentation.pdf" target="_blank">
+Open Mini Documentation
+</a>
+
+</div>
+
+---
+
+
 
 
 
