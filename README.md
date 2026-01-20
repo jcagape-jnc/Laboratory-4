@@ -6,7 +6,7 @@
 # -Laboratory-4  
 Infographic + Mini Project Documentation
 
-A visual presentation created using Canva, applying core design principles for clarity and effective communication.
+
 
 </div>
 
